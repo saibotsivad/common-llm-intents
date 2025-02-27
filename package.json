@@ -1,0 +1,13 @@
+{
+  "name": "common-llm-intents",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A personal map of intents to descriptions.",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "llm"
+  ],
+  "author": "saibotsivad",
+  "license": "VOL"
+}
